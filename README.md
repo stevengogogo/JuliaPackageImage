@@ -1,5 +1,5 @@
 # JuliaPackageImage
-Create system image for julia packages to save your compiling time:coffee:. 
+Create system image for julia packages to save your compiling time :coffee:. 
 
 
 ## Customize your package image

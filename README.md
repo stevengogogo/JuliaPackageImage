@@ -2,14 +2,14 @@
 Create system image for julia packages to save your compiling time. 
 
 
-# Customize your package image
+## Customize your package image
 
 Change the list here
 [List of packages](https://github.com/stevengogogo/JuliaPackageImage/blob/6849df5fa02bbef129af9cab6ce5de8824c8799b/CreatePkgImage.jl#L26)
 
 
 
-# Acknowledgement
+## Acknowledgement
 
 - The original version is the courtesy from [sosiristseng](https://github.com/sosiristseng), and customized for my usage
 

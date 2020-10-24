@@ -1,6 +1,7 @@
 using Pkg
 
 Pkg.add("PackageCompiler")
+Pkg.add("DiffEqBase")
 using PackageCompiler
 
 function installed()

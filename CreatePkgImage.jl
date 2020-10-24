@@ -1,5 +1,7 @@
-using PackageCompiler
 using Pkg
+
+Pkg.add("PackageCompiler")
+using PackageCompiler
 
 function installed()
     deps = Pkg.dependencies()
@@ -20,6 +22,7 @@ function adduninstalled(pkgs)
         end
     end
 end
+
 
 
 # Add your packages here

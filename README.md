@@ -15,6 +15,13 @@ include("conservative_package_compiler_testing.jl")
 ```
 
 
+## Troubleshooting
+
+### gcc not found when building image 
+
+1. Install gcc. [tutorial](https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/)
+2. Reopen Julia
+
 ## Acknowledgement
 
 - The original version is the courtesy from [sosiristseng](https://github.com/sosiristseng), and customized for my usage

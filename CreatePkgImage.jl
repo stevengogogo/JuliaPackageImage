@@ -38,6 +38,12 @@ conservative = [
     :FiniteDiff
     :LabelledArrays
     :DifferentialEquations
+    :NeuralPDE
+    :Flux
+    :GalacticOptim
+    :Optim
+    :ModelingToolkit
+    :DiffEqFlux
 ]
 
 # Add packages if not exists
